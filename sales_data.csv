@@ -1,0 +1,16 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Laptop,North,1500,300,0.1,Electronics,2023-01-01
+Smartphone,South,800,150,0.05,Electronics,2023-01-02
+Headphones,East,200,50,0.15,Accessories,2023-01-03
+Desk,West,350,80,0.2,Furniture,2023-01-04
+Chair,North,120,30,0.1,Furniture,2023-01-05
+Monitor,South,600,120,0.08,Electronics,2023-01-06
+Tablet,East,500,120,0.1,Electronics,2023-01-07
+Couch,West,1200,250,0.05,Furniture,2023-01-08
+Shoes,North,100,30,0.25,Apparel,2023-01-09
+Shirt,South,60,20,0.3,Apparel,2023-01-10
+Sofa,East,900,200,0.1,Furniture,2023-01-11
+Blender,West,400,100,0.1,Home,2023-01-12
+Microwave,North,350,75,0.05,Home,2023-01-13
+Washing Machine,South,800,150,0.15,Home,2023-01-14
+Refrigerator,East,1300,300,0.12,Home,2023-01-15
